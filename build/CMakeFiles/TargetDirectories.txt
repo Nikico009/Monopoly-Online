@@ -1,3 +1,0 @@
-/home/burgir/Desktop/monopoly_online/build/CMakeFiles/monopoly_app.dir
-/home/burgir/Desktop/monopoly_online/build/CMakeFiles/edit_cache.dir
-/home/burgir/Desktop/monopoly_online/build/CMakeFiles/rebuild_cache.dir
